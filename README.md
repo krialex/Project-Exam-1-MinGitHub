@@ -1,4 +1,4 @@
-# Kiks baker | Food blog
+# Kiks lager mat | Food blog
 
 ![Screenshot of the home page of the site](/img/ScreenshotHomePage.png "The home page")
 
@@ -22,8 +22,6 @@ It is built using HTML and styled with CSS. I have utilized Javascript to fetch 
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
-
 Clone the repo:
 
 > git clone https://github.com/krialex/Project-Exam-1-MinGitHub
@@ -32,6 +30,6 @@ Clone the repo:
 
 Here is my contact information if you want to contact me:
 
-[LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin "KristineAlexandersen profile")
+[LinkedIn](https://www.linkedin.com/in/kristine-alexandersen-14144070/)
 
 <krigulland@gmail.com>
